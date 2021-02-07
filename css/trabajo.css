@@ -1,0 +1,98 @@
+/*CSS PAGINA TRABAJO */
+
+#trabaja li {
+    color: #920900;
+    margin-bottom: 4px;
+}
+
+#trabaja li:hover {
+    color: #00581c;
+}
+
+#trabaja a {
+    background-color: #920900;
+    color: #fff;
+}
+
+#trabaja a:hover {
+    background-color: #00581c;
+}
+
+#trabaja .card {
+    position: relative;
+    height: 100%;
+}
+
+#trabaja #a {
+    margin-top: 10%;
+}
+
+#trabaja .card h5 {
+    color: #333;
+}
+
+#trabaja .card p {
+    text-align: justify;
+    color: #333;
+}
+
+#trabaja p {
+    color: #333;
+}
+
+#trabaja h1 {
+    color: #333;
+}
+
+#trabaja h2 {
+    color: #333;
+}
+
+#trabaja h5 {
+    color: #333;
+}
+
+#trabaja button {
+    background-color: #920900;
+    color: #fff;
+}
+
+#trabaja button:hover {
+    background-color: #00581c;
+}
+
+
+/*CSS PAGINA TRABAJO Formulario envio curriculum */
+
+#form_trabajo button {
+    background-color: #920900;
+    color: #fff;
+}
+
+#form_trabajo button:hover {
+    background-color: #00581c;
+}
+
+
+/* Paginas de tipos de empleos */
+
+#inspector a {
+    background-color: #920900;
+    color: #fff;
+}
+
+#inspector a:hover {
+    background-color: #00581c;
+}
+
+#inspector p {
+    color: #333;
+}
+
+#inspector li {
+    color: #333;
+}
+
+#inspector h2 {
+    color: #333;
+}
